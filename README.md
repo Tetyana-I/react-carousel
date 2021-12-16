@@ -1,6 +1,6 @@
 ## App Description
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Testing Exercises
+This exercise practices working with props, defaultProps, state, and simple click events in React.
 
 ## Available Scripts
 
